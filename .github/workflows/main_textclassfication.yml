@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'textClassfication'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFC6C110B6364D8583F1033F7BFCAD9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2B36F88296D4A1A8114842BCB388240 }}
